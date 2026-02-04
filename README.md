@@ -72,11 +72,23 @@ AgentFlow/
 
 ## Quick start
 
-### 1. Clone or open the project
+### 1. Clone the repository
+
+To get the project on your machine (or another desktop), clone it from GitHub:
 
 ```bash
-cd AgentFlow
+git clone https://github.com/gauravzyadav/AI-Ops-Assistant.git
+cd AI-Ops-Assistant
 ```
+
+If you use SSH:
+
+```bash
+git clone git@github.com:gauravzyadav/AI-Ops-Assistant.git
+cd AI-Ops-Assistant
+```
+
+Replace `gauravzyadav/AI-Ops-Assistant` with your own GitHub username and repo name if you forked or renamed the repository.
 
 ### 2. Create a virtual environment (recommended)
 
